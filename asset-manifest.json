@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-ricky-morty-wiki/static/css/main.2558212c.css",
+    "main.js": "/react-ricky-morty-wiki/static/js/main.1ef907b4.js",
+    "static/js/787.0ac0f929.chunk.js": "/react-ricky-morty-wiki/static/js/787.0ac0f929.chunk.js",
+    "index.html": "/react-ricky-morty-wiki/index.html",
+    "main.2558212c.css.map": "/react-ricky-morty-wiki/static/css/main.2558212c.css.map",
+    "main.1ef907b4.js.map": "/react-ricky-morty-wiki/static/js/main.1ef907b4.js.map",
+    "787.0ac0f929.chunk.js.map": "/react-ricky-morty-wiki/static/js/787.0ac0f929.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2558212c.css",
+    "static/js/main.1ef907b4.js"
+  ]
+}
